@@ -1,0 +1,5 @@
+{
+  "name": "Birdie",
+  "description": "A whimsical chatbot that asks for your favorite bird species and generates a hilarious, high-quality silly image of it using Gemini's image generation capabilities.",
+  "requestFramePermissions": []
+}
