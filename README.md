@@ -4,9 +4,10 @@
 
 # Birdie: Beaks and giggles for the entire family
 
-This app that takes a bird species and makes up silly stories and cartoon images to go with the stories.  What is included is a UI where the user types in their prompt and sees the results.  On the backend, the app connects to a Gimini powered bot.  Sillieness and slapstick halarity come next.  There's not much more then that!
+This app that takes a bird species and makes up silly stories and cartoon images to go with the stories. What is included is a UI where the user types in their prompt and sees the results. On the backend, the app connects to a Gemini powered bot. Silliness and slapstick halarity come next. There's not much more then that!
 
-This has been programed to give the user a high degree of creative freedom in their prompts.  Unless the user requests otherwise, the app will provide a story and illustration.  It will keep building on that story until the user provides a differet bird species or tells it to stop.  It's parameters are to ensure the subject matter stays within the immagionary avian world and is safe and apropriate for the entire family.
+This has been programed to give the user a high degree of creative freedom in their prompts. Unless the user requests otherwise, the app will provide a story and illustration. It will keep building on that story until the user provides a different bird species or tells it to stop. It's parameters are to ensure the subject matter stays within the imaginary avian world and is safe and appropriate for the entire family.
+
 
 ## Run Locally
 
