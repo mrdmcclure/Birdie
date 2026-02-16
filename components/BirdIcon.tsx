@@ -7,13 +7,6 @@ export const BirdIcon: React.FC<{ className?: string }> = ({ className }) => (
     xmlns="http://www.w3.org/2000/svg"
     className={className}
   >
-    {/* Head Tuft */}
-    <path 
-      d="M45 20C45 20 42 10 50 5C58 10 55 20 55 20" 
-      stroke="currentColor" 
-      strokeWidth="4" 
-      strokeLinecap="round" 
-    />
     
     {/* Body */}
     <path 
