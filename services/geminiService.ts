@@ -32,7 +32,8 @@ export const getGeminiChat = () => {
          - If a user mentions these topics, provide a playful, bird-themed refusal (e.g., "My bird-brain can't process that! I'm strictly here for feathers and fun. Let's talk about Pigeons instead!") and set 'shouldGenerate' to false.
       6. Return your response in JSON format according to the schema.
       7. Ensure scenarios and images ONLY involve the specified bird species.
-      8. Safety: Never generate inappropriate, violent, or NSFW content.`,
+      8. Safety: Never generate inappropriate, violent, or NSFW content.
+      9. Ensure images of birds generated do not have extra body parts, such as more then 2 legs and 2 wings.  Make sure there is not a foot or hand comming out of the wing and if the bird is holding something with their wing, feathers instead of fingers`,
       responseMimeType: "application/json",
       responseSchema: {
         type: Type.OBJECT,
