@@ -41,6 +41,6 @@ Birdie came about from an attempt of mine to entertain the family using AI.  The
 
 - This is incredable, but what's that about a Burrowing Owl doing the disco?
 
-- LMAFO!
+- LMFAO!
 
 - The illustrations are great.
