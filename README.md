@@ -36,3 +36,11 @@ His tiny wooden skis are sticking out at useless angles, and his long orange bea
 For some reason, this app likes naming the avian characters Burnaby.  I've noticed it also likes marshmellows.
 
 Birdie came about from an attempt of mine to entertain the family using AI.  The app here on GitHub is meant to be ran locally, given you create your own API key.
+
+## Testimonials From Real Users
+
+- This is incredable, but what's that about a Burrowing Owl doing the disco?
+
+- LMAFO!
+
+- The illustrations are great.
