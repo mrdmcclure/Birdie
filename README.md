@@ -19,7 +19,7 @@ This has been programed to give the user a high degree of creative freedom in th
 3. Run the app:
    `npm run dev`
 
-Keep in mind that you need Node.js installed to run this locally on your computer.  You will also need an API key to Gemini.  I recommend you run this app first on Google AI studio and generate a key there.  
+You may download the files from the latest release. Keep in mind that you need Node.js installed to run this locally on your computer.  You will also need an API key to Gemini.  I recommend you run this app first on Google AI studio and generate a key there.  
 
 ## Example Story
    
