@@ -44,3 +44,5 @@ Birdie came about from an attempt of mine to entertain the family using AI.  The
 - LMFAO!
 
 - The illustrations are great.
+
+- OMG that's hilarious!
