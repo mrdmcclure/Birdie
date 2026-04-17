@@ -21,6 +21,8 @@ This has been programed to give the user a high degree of creative freedom in th
 
 You may download the files from the latest release. Keep in mind that you need Node.js installed to run this locally on your computer.  You will also need an API key to Gemini.  I recommend you run this app first on Google AI studio and generate a key there.  
 
+While downloading this app is free, usage limits based on your Google account will apply once you set it up with your API key.
+
 ## Example Story
    
 Meet Oliver the Black Oystercatcher, the only bird brave enough to enter the Winter Olympics' Extreme Downhill Slalom! Oliver was doing great, his bright orange beak slicing through the mountain air like a hot knife through butter, until he hit a particularly jumpy mogul. Instead of a majestic flight, he performed a triple-clumsy-flip and began collecting snow like a high-speed magnet! Now, Oliver isn't just a bird; he's the core of a massive, thundering snowball hurtling toward the finish line.
